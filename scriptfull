@@ -1,3 +1,5 @@
+task.wait(3)
+
 local Webhook_URL =
 "https://discord.com/api/webhooks/1273045243838730372/bbKAmOZwLFJtF1-wGne7wkOyYH7mQ2DVeOMGHhEBZW8QTm5NM8nGT9K57GxAl0CkR2Pg"
 local canrebirth = false;
